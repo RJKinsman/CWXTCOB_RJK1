@@ -1,0 +1,4 @@
+//HCHRJK0A JOB ('#SALESSUP'),'TTT         ',
+//             CLASS=A,MSGCLASS=R,NOTIFY=&SYSUID,REGION=0M
+/*JOBPARM S=*
+//*
